@@ -232,6 +232,7 @@ no_reboot_needed: true
 package_aide_installed: true
 package_audit_installed: true
 package_audit_libs_installed: true
+package_cron_installed: true
 package_fapolicyd_installed: true
 package_firewalld_installed: true
 package_libselinux_installed: true
